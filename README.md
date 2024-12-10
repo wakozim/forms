@@ -9,6 +9,8 @@
 fastapi dev app/main.py
 ```
 
+Приложение будет доступно по http://localhost:8000
+
 ## Тесты
 
 Тесты реализованы на основе встроенного в FastAPI класса TestClient. 
