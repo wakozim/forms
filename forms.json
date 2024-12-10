@@ -1,0 +1,1 @@
+{"_default": {"1": {"name": "user", "login": "email", "phone": "phone", "registration": "date", "username": "text"}, "2": {"name": "event", "type": "text", "data": "text", "timestamp": "date"}, "3": {"name": "state", "id": "text"}}}
